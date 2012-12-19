@@ -1,0 +1,35 @@
+{
+  "name": "grunt-html2jsvar",
+  "description": "Grunt plugin for build JavaScript file of single variable with HTML file's content.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mctenshi/grunt-html2jsvar",
+  "author": {
+    "name": "Goonoo Kim",
+    "email": "mctenshi@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mctenshi/grunt-html2jsvar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mctenshi/grunt-html2jsvar/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mctenshi/grunt-html2jsvar/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "tasks/grunt-html2jsvar",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "0.3.x"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
