@@ -2,7 +2,7 @@
  * grunt-html2jsvar
  * https://github.com/mctenshi/grunt-html2jsvar
  *
- * Copyright (c) 2012 Jörn Zaefferer
+ * Copyright (c) 2012 mctenshi
  * Licensed under the MIT license.
  */
 

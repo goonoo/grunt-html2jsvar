@@ -1,1 +1,0 @@
-var TEST = "<div id=\"a\">   <b>bb</b> </div> ";
